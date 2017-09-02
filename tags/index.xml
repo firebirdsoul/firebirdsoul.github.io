@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 唐山晋水</title>
-    <link>https://firebirdsoul.me/tags/</link>
+    <link>https://firebirdsoul.github.io/tags/</link>
     <description>Recent content in Tags on 唐山晋水</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     
-	<atom:link href="https://firebirdsoul.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://firebirdsoul.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scene</title>
-      <link>https://firebirdsoul.me/tags/scene/</link>
+      <link>https://firebirdsoul.github.io/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://firebirdsoul.me/tags/scene/</guid>
+      <guid>https://firebirdsoul.github.io/tags/scene/</guid>
       <description></description>
     </item>
     
